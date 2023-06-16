@@ -1,0 +1,3 @@
+downloads/
+images/*
+!images/example.png
