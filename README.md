@@ -1,6 +1,6 @@
 # ascii-art-converter
 
-このシステムはPNGやJPGなどの画像ファイルをアスキーアートに変換してtextファイルとして保存するシステムです。
+このシステムはPNGやJPGなどの画像ファイルをアスキーアートに変換してtextファイルとして保存します。
 
 ## Requirements
 
